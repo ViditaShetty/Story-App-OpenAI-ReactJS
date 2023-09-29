@@ -16,14 +16,21 @@ https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/ff53de0
 ![WhatsApp Image 2023-09-27 at 22 32 34](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/73d08392-09d7-4434-b2ea-7b45ae45182c)
 
 # Explore Page
-![WhatsApp Image 2023-09-27 at 22 32 53](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/c30d9f7d-2ab9-4319-bb6f-df9532316ec3)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/167ce08c-f920-4921-a5e5-d51ac5a4edd7)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/ad1dd904-5f4a-4768-9516-1f7bdd482049)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/829f3ef2-5ea6-4120-a9ed-c543b4bf091b)
 
-#
-![WhatsApp Image 2023-09-27 at 22 33 05](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/39863d37-2765-4d50-9a77-15950b0265ce)
-#
+# Indiviual Story Page
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/282fe9a1-17f4-4fbf-8a36-540716a35f1c)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/de69f0c5-5afe-4ea4-94cf-a84584f98cf1)
+
+
+# LeaderBoard
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/d5800afc-f422-4883-b19b-86f013f18a44)
+# You
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/0cb87fb7-c5a1-4611-94b2-5bf14a9c9b88)
+
+# Publish Ai-generated Story
 ![WhatsApp Image 2023-09-27 at 22 33 17](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/f616f30d-1826-44c6-a752-ddb29bce8770)
-#
-![WhatsApp Image 2023-09-27 at 22 33 28](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/65487e24-b16e-44db-86d6-30bea373b111)
-![WhatsApp Image 2023-09-27 at 22 33 38](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/3d6a6f88-5b86-4b99-b395-1f8c34a8d6b4)
 
-
+![WhatsApp Image 2023-09-27 at 22 33 28](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/3539690d-a2ea-432f-b7c2-6f94ee9facae)
