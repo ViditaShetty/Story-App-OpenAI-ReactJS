@@ -1,7 +1,17 @@
+
+This is a AI Generated Story App.I have used ReactJS, NodeJS, OpenAI API and mongoDB.
+It is mobile responsive.
+I have implemented the following features:
+#### -- LeaderBoard 
+#### --Upvoting and Bookmarking Story 
+#### --Filtering based on Themes and Tones 
+#### --AI generated story based on user prompt 
+#### --User Feedback by Adding Tags to individual stories
+
 # Video Demo
 https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/ff53de02-dea7-4dce-b040-895ba6215970
 
-# Home Pgae
+# Home Page
 ![WhatsApp Image 2023-09-27 at 22 32 34](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/73d08392-09d7-4434-b2ea-7b45ae45182c)
 
 # Explore Page
