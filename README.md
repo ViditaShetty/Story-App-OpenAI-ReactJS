@@ -8,7 +8,7 @@ I have implemented the following features:
 #### --AI generated story based on user prompt 
 #### --User Feedback by Adding Tags to individual stories
 
-##### NOTE: Prompt feature will stop working a year from now due to limited credit on OPENAI api
+##### NOTE: Prompt feature will stop working 6 months from 29/09/23 due to limited credit on OPENAI api
 # Video Demo
 https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/ff53de02-dea7-4dce-b040-895ba6215970
 
