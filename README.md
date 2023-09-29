@@ -1,5 +1,5 @@
-
-This is a AI Generated Story App.I have used ReactJS, NodeJS, OpenAI API and mongoDB.
+This is a AI Generated Story App.
+I have used ReactJS, NodeJS, OpenAI API, Cloudinary (Image storage) and mongoDB.
 It is mobile responsive.
 I have implemented the following features:
 #### -- LeaderBoard 
