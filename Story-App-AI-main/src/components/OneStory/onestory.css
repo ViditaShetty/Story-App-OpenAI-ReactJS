@@ -1,0 +1,180 @@
+.OSExplore {
+    margin: 10px 20px 0px 101px;
+  }
+.OSgrid-item {
+    padding: 20px 20px 5px 20px;
+    font-size: 30px;
+    text-align: center;
+    width: 85vw;
+    display: flex;
+    z-index: 1000;
+    position: relative;
+  } 
+  .OSgrid-item>div:nth-child(1){
+    margin: 10px 46px 0px 2px;
+    position: fixed;
+  }
+.OSUnderline{
+    width: 60.5vw;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #607D8B;
+    padding-bottom: 1px;
+    font-size: 26px;
+    overflow: hidden;
+    margin-left: 33vw;
+    margin-top: 31px;
+    font-weight: 900;
+    position: fixed;
+    z-index: 1;
+}
+.OSgrid-item>div>img{
+    height: 68vh;
+    width: 23vw;
+    border-radius: 13px;
+    z-index: 1000;
+    position: relative;
+}
+.OSTitle{
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: left;
+    
+    display: flex;
+    justify-content: center;
+}
+.OSStats{    
+    display: flex;
+    flex-direction: row;
+    color: rgb(74 74 74);
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.OSStats>div{
+    display: flex;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.OSStats>div>*{
+    padding-right: 5px;
+}
+.OShash{
+    display: flex;
+    justify-content: center;
+
+    display: flex;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    width: 23vw;
+    flex-wrap: wrap;
+}
+.OShash1{
+    border-radius: 5px;
+    padding:2px 5px;
+    border:2px solid rgb(170, 177, 231);
+    color:rgb(67, 67, 194);
+    margin-right: 10px;
+    margin-bottom: 5px;
+
+}
+::-webkit-scrollbar{
+    border: none;
+}
+
+.VoteComment{
+    position: absolute;
+    right: 8vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 12.5vh;
+    height: 33vh;
+    justify-content: space-between;
+    color: #90A4AE;
+    cursor: pointer;
+    z-index: 1003;
+    font-size: 13px;
+}
+.VoteComment>span{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+.VoteComment>span + .name{
+    display: none;
+    color:#76a6be;
+}
+.VoteComment>span:hover + .name{
+    display: inline;
+}
+.VoteComment>*:hover{
+    scale: 1.05;  
+    color:#37b5f4  ;
+    transition: ease all 0.5s;
+}
+.select, .option{
+    background: transparent;
+    border: none;
+    font-size: 16px;
+    padding: 0px;
+    color: rgb(94, 94, 199);
+    border-radius: 11px;
+    padding: 7px 9px;
+    border: 1px solid blue;
+    font-weight: 700;
+    backdrop-filter: blur(22px);
+}
+.option{
+    font-weight: 100;
+    padding: 10px;
+}
+
+.smallScreenStory{
+    display: none;
+}
+
+/*FOR SMALL TO MEDIUM SIZED DEVICES*/
+@media only screen and (max-width: 980px) {
+::-webkit-scrollbar {
+    border: none;
+    display: none;
+}
+.OSExplore {
+    margin: 10px 9px 0px 10px;
+}
+.OSgrid-item>div>img {
+    height: 49vh;
+    width: 53vw;
+}
+.OShash {
+    width: 23vw;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 25vw;
+}
+.OSgrid-item {
+    padding: 20px 20px 5px 20px;
+    font-size: 30px;
+    text-align: center;
+    width: 85vw;
+    display: block; 
+    z-index: 1000;
+    position: relative;
+}
+.OSgrid-item>div:nth-child(1) {
+    margin: 10px 46px 0px 2px;
+     position:relative
+}
+.smallScreenStory{
+    display: contents;
+}
+.LargeScreenStory{
+    display: none;
+}
+.OSUnderline {
+   display: none;
+}
+}

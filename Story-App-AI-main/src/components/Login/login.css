@@ -1,0 +1,121 @@
+.Loginlogo {
+    font-weight: 900;
+    font-size: x-large;
+    color: rgb(34, 34, 135);
+    cursor: pointer;
+    position: absolute;
+    top: 1;
+    top: 3%;
+    color: white;
+    font-size: xx-large;
+    z-index: 50;
+}
+.login{
+    display: flex;
+    font-weight: 900;
+    font-size: large;
+    flex: 0 1;
+    color:rgb(157, 152, 152);
+    min-height: 100vh;
+}
+.loginRight > div{
+    margin-bottom: 4vh;
+}
+.loginRight{
+    flex: 1;
+    margin: 10% 0% 0% 0%;
+    margin:5% ;
+
+}
+.loginLeft {
+    flex: 1 1;
+    background: white;
+    margin-top: -6%;
+    margin-left: -3%;
+    
+    border-radius: 0% 2% 45% 0%;
+}
+.loginTitle{    
+    color: rgb(34, 34, 135);
+    font-size: xxx-large;
+    margin-bottom: 6vh;
+}
+.loginTitle > div{
+    margin-bottom: 3vh;
+}
+video{
+    width: 35vw;
+    border-radius: 64% 135%;
+    margin: 24% 0% 0% 0%;
+    box-shadow: 0px 32px 0px rgb(19 19 84);
+    padding: 0;
+}
+.loginInput{
+    margin-left: 4%;
+    border: 1px solid lightgrey;
+    padding: 2%;
+    /* text-decoration: underline; */
+    box-shadow: 0px 1px 0px rgba(190, 188, 188, 0.766);
+    width: 30vw;
+    color:black;
+    height: 3vh;
+    margin-top: 1vh;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.loginButton{
+    background-color: rgb(34,34,135);
+    color: white;
+    border-radius: 20px;
+    padding: 12px 48px;
+    cursor: pointer;
+    width: 10vw;
+    text-align: center;
+    margin-left: 15%;
+}
+.loginsignin{
+    color: rgb(34, 34, 135);
+    border-radius: 20px;
+    padding: 0px 48px 12px 48px;
+    cursor: pointer;
+    width: 20vw;
+    text-align: center;
+    margin-left: 5%;
+}
+
+.loginLeft > img{
+    padding-top: 30%;
+    width: 37vw;
+  }
+
+
+/*FOR SMALL TO MEDIUM SIZED DEVICES*/
+@media only screen and (max-width: 980px) {
+    .loginLeft > img{
+        padding-top: 64%;
+        width: 30vw;
+      }
+      .loginsignin{
+        width: 63%;
+        margin-left: -22%;
+        padding: 0% 0 0 0;
+        margin: 0;
+      }
+      .loginLeft {
+        display: none;
+    }
+    .loginRight{
+        min-width: 50vw;
+    }
+    .loginInput {
+        min-height: 30px;
+        min-width: 50vw;
+
+    }
+    .loginTitle{
+        font-size: 30px;
+    }
+    .login{
+        font-size: 15px;
+    }
+}

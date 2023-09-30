@@ -1,0 +1,516 @@
+.Navbar{
+    height: 6vh;
+    display: flex;
+    padding: 10px 7vw;
+    font-weight: 700;
+}
+.Nav{
+    padding: 10px;
+    margin: 0px 30px;
+    cursor: pointer;
+}
+.Nav>img{
+    height: 35px;
+    width: 37px;
+    border-radius: 100%;
+}
+.Nav:nth-child(6){
+    margin-left: 8vw;
+    margin-right: 0vw;
+}
+.Nav:nth-child(6){
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    width: 50px;
+    text-align: center;
+    padding: 10px 32px;
+    cursor: pointer;
+}
+.Nav:nth-child(7){
+    border-radius: 30px;
+    background-color: white;
+    color: black;border:2px solid black;
+    width: 50px;
+    text-align: center;
+    padding: 10px 32px;
+    cursor: pointer;
+}
+.Nav:nth-child(5){
+    margin-left: 60px;
+}
+.Nav:nth-child(1){
+    margin-right: -7px;
+    margin-top: -5px;
+}
+
+
+.Banner{
+    display: flex;
+    flex:2 1;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/970/338/non_2x/abstract-glowing-blue-gradient-background-with-diagonal-stripe-lines-minimal-simple-backdrop-design-free-vector.jpg");
+    max-height: 50vh;
+    padding: 30px 65px;
+    border-radius: 31px;
+    margin: 20px 65px;
+}
+.BannerLeft{
+    max-width: 50vw;
+    color:white;
+    font-size: 15px;
+    font-weight: 100;
+    flex: 2;
+}
+.BannerLeft>div:nth-child(1){
+    font-size: 40px;
+    font-weight: 900;
+    padding: 27px;
+}
+.BannerLeft>div:nth-child(3){
+    background-color: rgb(248 61 61);
+    border-radius: 20px;
+    font-weight: 900;
+    padding: 10px 16px;
+    width: 13vw;
+    margin-top: 23px;
+    margin-left: 35px;
+    text-align: center;
+}
+.BannerRight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex:1;
+}
+.BannerRight>div:nth-child(1){
+    transform: rotate(90deg);
+}
+.BannerRight>div:nth-child(3){
+    transform: rotate(270deg);
+}
+.BannerRight>img{
+    border-radius: 70px;
+    padding: 0px 20px;
+    height: 42vh;
+    width: 32vw;
+}
+
+
+
+
+.EL{
+    display: flex;
+    max-height: 80vh;
+}
+.Explore {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto;
+    margin: 10px 20px 0px 101px;
+  }
+.grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+.grid-item:hover{
+        opacity: 0.9;
+        scale:1.05
+
+}
+.Underline{
+    width: 41.5vw;
+    border-bottom: 4px solid rgb(255 37 89);
+    padding-bottom: 1px;
+    font-size: 26px;
+    overflow: hidden;
+    margin-left: 8vw;
+    margin-top: 31px;
+    font-weight: 900;
+}
+.grid-item>img{
+    height: 33vh;
+    width: 12vw;
+    border-radius: 10px;
+}
+.Title{
+    font-weight: 600; 
+    font-size: 16px;
+    text-align: left;
+}
+.Stats{
+    display: flex;
+    flex-direction: row;
+    color:rgb(104, 104, 104);
+    font-size:16px;
+}
+.Stats>div{
+    display: flex;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.Stats>div>*{
+    padding-right: 5px;
+}
+.hash{
+    display: flex;
+    font-size: 12px;
+    width: 12vw;
+    overflow: hidden;
+}
+.hash1{
+    border-radius: 5px;
+    padding:2px 5px;
+    border:2px solid rgb(170, 177, 231);
+    color:rgb(67, 67, 194);
+    margin-right: 10px;
+}
+
+
+
+.Underline2{
+    width: 30vw;
+    border-bottom: 4px solid rgb(255 37 89);
+    padding-bottom: 1px;
+    font-size: 26px;
+    overflow: hidden;
+    margin-left: 6vw;
+    margin-top: 31px;
+    font-weight: 900;
+    text-align: initial;
+}
+.leaderStories{
+    display: flex;
+    margin-left: 82px;
+    align-items: center;
+    border-bottom: 1px solid #cbc9c9;  
+    cursor: pointer;
+}
+.leaderStories>img:hover{
+    opacity: 0.9;
+    scale:1.05
+}
+.leaderStories:last-child{
+    border-bottom: none;
+}
+.leaderStories>div:nth-child(1){
+    font-weight: 900;
+    font-size: 20px;
+    width:30px;
+    margin-left: 10px;
+}
+.leaderStories>img{
+    width: 15vh;
+    height: 15vh;
+    border-radius: 10px;
+    margin: 12px;
+}
+.leaderStories>div:nth-child(3)>*{
+    padding: 5px 5px 0px 5px;
+}
+
+
+
+.Bookmark {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    padding: 10px;
+    max-height: 60vh;
+    width: 78vw;
+    margin-left: 7vw;
+    column-gap: 28px;
+}
+.book-item {
+    padding: 20px 10px;
+    font-size: 30px;
+    text-align: center;
+    max-width: 16vw;
+    cursor: pointer;
+}
+.book-item:hover{
+    opacity: 0.9;
+}
+.Underlinee{
+    width: 85vw;
+    border-bottom:2px solid rgb(201 198 198);
+    padding: 0px;
+    font-size: 21px;
+    padding-right: 20px;
+    display: flex;
+    margin-left: 8vw;
+    margin-top: 70px;
+    color:#919191
+}
+.Underlinee>div{
+    padding: 0px 30px;
+    cursor: pointer;
+}
+.selected{
+    padding-bottom: 10px;
+    border-bottom: 4px solid rgb(228, 44, 62);
+    padding-left: 0px;
+    color:black;
+    font-weight: 900;
+}
+.Underlinee>div:last-child{
+    margin-left: 24%;
+    font-size: 15px;
+    align-self: center;
+}
+.Underlinee>div:last-child>*{
+    padding: 0px 15px;
+}
+.filter{
+    background-color: rgb(204 202 202 / 54%);
+    min-width:200px;
+    color:black;
+}
+.book-item>img{
+    height: 29vh;
+    width: 11vw;
+    border-radius: 10px;
+    margin-left: -10px;
+    display: flex;
+}
+
+
+.PnC{
+    display: flex;
+    padding: 50px 7vw;
+    gap:1vw;
+}
+.Publish{
+    background-color: black;
+    border-radius: 20px;
+    height:30vh;
+    display: flex;
+    flex:2 1;
+    margin-right: 30px;
+    color:white;
+}
+.PublishLeft{
+    font-weight: 900;
+    font-size: 25px;
+    padding: 40px 40px;
+}
+.PublishLeft>div:nth-child(2){
+    background-color: rgb(207, 24, 24);
+    color:white;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.PublishRight{
+    height: 20vh;
+    width: 11vw;
+}
+.PublishRight>img{ 
+    height: 30vh;
+    border-radius:0px 20px 20px 0px;
+}
+.Continue{
+    background-color: rgb(207, 24, 24);
+    border-radius: 20px;
+    height:30vh;
+    display: flex;
+    flex:2 1;
+}
+.ContinueLeft{
+    font-weight: 900;
+    font-size: 25px;
+    font-weight: 900;
+    font-size: 25px;
+    padding: 40px 40px;
+}
+.ContinueLeft>div:nth-child(2){
+    background-color: rgb(0, 0, 0);
+    color:white;
+    font-size: 15px;
+    border-radius: 20px;
+    font-weight: 900;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.ContinueRight{
+    height: 20vh;
+    width: 11vw;
+}
+.ContinueRight>img{
+    height: 30vh;
+    border-radius:0px 20px 20px 0px;
+}
+
+
+/*FOR SMALL TO MEDIUM SIZED DEVICES*/
+@media only screen and (max-width: 980px) {
+    .Hero,.App{
+        overflow-y: hidden;
+        max-width: 980px; 
+        overflow-x: hidden;
+    }
+    .Navbar{
+        padding:0px;
+        font-size:15px;
+        text-decoration: 3px dotted rgb(197, 197, 215) underline;
+        text-underline-offset: 7px;
+    }
+    .Nav{
+        margin:0;
+    }
+    .Nav:nth-child(1),.Nav:last-child{display: none;}
+    .Nav:nth-child(5) {
+         margin-left: 0px;
+    }
+    .Nav:nth-child(6),.Nav:nth-child(7){
+        border-radius: 0px;
+        background-color: transparent;
+        color: black;
+        width: fit-content;
+        text-align: center;
+        padding: 10px;
+        cursor: pointer;
+        border: none;
+        margin-left: -10px;
+    }
+    .Banner{
+        margin: 20px 14px;
+        padding: 16px 30px;
+    }
+    .BannerLeft {
+        max-width: fit-content;
+    }
+    .BannerLeft>div:nth-child(1){
+            font-size: 26px;
+            padding: 10px;
+    }
+    .BannerLeft>div:nth-child(2){
+        display: none;
+    }
+    .BannerRight{
+        display: none;
+    }
+    .BannerLeft>div:nth-child(3) {
+        width: 50vw;
+    }
+    .EL {
+        display: flex;
+        max-height: fit-content;
+        flex-direction: column;
+    }
+    .grid-item{
+        padding: 0px;
+    }
+    .grid-item>img,.book-item>img{
+        height: 19vh;
+        width: 25vw;
+        border-radius: 10px;
+    }
+    .Explore{
+        margin-left: 10px;
+    }
+    .Title{
+        font-size: 15px;
+    }
+
+    .hash{
+        font-size: 10px;
+        width: 20vw;
+    }
+    .leaderStories>.hash{
+        font-size: 10px;
+        width: 60vw;
+    }
+
+    .hash1{
+        margin-right:5px ;
+    }
+    .Title,.hash,.Stats{
+        margin-left: 13px;
+    }
+    .Title{
+        height: 14vh;
+    }
+    .leaderStories>div>.Title{
+        height:10vh ;
+    }
+    .leaderStories>div>.hash{
+        width: 50vw;
+        margin-bottom: 10px;
+    }
+    .leaderStories>div>.Stats{
+        margin-top:-8px
+    }
+    .Underline,.Underline2 {
+        width: 81.5vw;
+    }   
+    .leaderStories {
+        margin-left: 12px; 
+    }
+    .Underlinee {
+        width: 85vw;
+        padding: 0px;
+        font-size: 17px;
+        padding-right: 9px;
+        margin-left: 5vw;
+        margin-top: 36px;
+    }
+    .Underlinee>div {
+        padding:0px 15px;
+    }
+    .Bookmark {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        grid-template-rows: auto auto;
+        padding: 4px;
+        max-height: fit-content;
+        width: 93vw;
+        margin-left: 3vw;
+        column-gap: 0px;
+    }
+    .Bookmark {
+        display: grid;
+        grid-template-columns: auto auto auto;
+    }
+    .Underlinee>div:last-child, .Underlinee>div:nth-child(2) {
+        display: none;
+    }
+    .PnC {
+        flex-direction: column;
+        padding: 10px;
+    }
+    .Publish,.Continue {
+        width: fit-content;
+        padding: 0px 28px;
+        margin: 0px 13vw;
+    }    
+    .PublishLeft,.ContinueLeft {
+        font-weight: 900;
+        font-size: 16px;
+        padding: 18px 0px;
+    }
+    .PublishRight,.ContinueRight{
+        display: none;
+        max-width: 10px;
+        max-height: 10px;
+    }
+    .book-item {
+        padding: 16px 3px;
+        font-size: 25px;
+        text-align: center;
+        max-width: 30vw;
+    }
+    .book-item>img {
+        height: 19vh;
+        width: 25vw;
+        border-radius: 20px;
+        margin-left: 11px;
+    }
+
+}

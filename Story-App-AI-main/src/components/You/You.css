@@ -1,0 +1,126 @@
+.YYBookmark {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    padding: 10px;
+    min-height: 71vh;
+    width: 78vw;
+    margin-left: 7vw;
+    column-gap: 28px;
+}
+.YYbook-item {
+    padding: 20px 10px;
+    font-size: 16px;
+    font-weight: 800;
+}
+.YYUnderlinee{
+    width: 85vw;
+    border-bottom: 2px solid rgb(201 198 198);
+    padding: 0px;
+    font-size: 18px;
+    padding-right: 20px;
+    display: flex;
+    margin-left: 7vw;
+    margin-top: 58px;
+    color: #919191;
+}
+.YYUnderlinee>div{
+    padding: 0px 30px;
+    text-align: center;
+}
+.selected{
+    padding-bottom: 10px;
+    border-bottom: 4px solid rgb(228, 44, 62);
+    padding-left: 0px;
+    color:black;
+    font-weight: 900;
+    padding: 0px 31px 17px 26px;
+}
+.YYUnderlinee>div:last-child{
+    margin-left: 20%;
+    font-size: 15px;
+    align-self: center;
+}
+.YYUnderlinee>div:last-child>*{
+    padding: 0px 15px;
+}
+.YYfilter{
+    background-color: rgb(204 202 202 / 54%);
+    min-width:200px;
+    color:black;
+}
+.YYbook-item>img{
+    border-radius: 10px;
+    margin-left: -10px;
+    height: 40vh;
+    width: 15vw;
+}
+.YYStats{
+    display: flex;
+    flex-direction: row;
+    color:rgb(104, 104, 104);
+    font-size:16px;
+}
+.YYStats>div{
+    display: flex;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.YYStats>div>*{
+    padding-right: 5px;
+}
+.YYhash{
+    display: flex;
+    font-size: 12px;
+}
+.YYhash1{
+    border-radius: 5px;
+    padding:2px 5px;
+    border:2px solid rgb(170, 177, 231);
+    color:rgb(67, 67, 194);
+    margin-right: 10px;
+}
+
+
+
+/*FOR SMALL TO MEDIUM SIZED DEVICES*/
+@media only screen and (max-width: 980px) {
+    .YYUnderlinee>div:last-child ,.YYUnderlinee>div:nth-child(4){
+        display: none !important;
+    }
+    .YYUnderlinee>div{
+        font-size: 17px !important;
+        width: fit-content;
+        padding:0px 5px;
+    }
+    .YYbook-item>img {
+        border-radius: 10px;
+        margin-left: -10px;
+        height: 35vh;
+        width: 39vw;
+    }
+    .YYBookmark {
+        display: grid;
+        grid-template-columns: auto auto ;
+        padding: 9px;
+        min-height: 71vh;
+        width: 45vw;
+        margin-left: 3vw;
+        column-gap: 0px;
+    }
+    .YYbook-item{
+        padding: 20px;
+        font-size: 14px !important;
+        max-width: 40vw !important;
+    }
+    .YYTitle{
+        height: 10vh;
+    }
+    .YYhash {
+        max-width: 35vw !important;
+        overflow: hidden;
+    }
+    .Loginlogo {
+        margin-left: 11vw;
+    }    
+}
