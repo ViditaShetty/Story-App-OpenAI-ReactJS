@@ -1,8 +1,13 @@
-# Story-App-OpenAI-ReactJS
+# Story-App-OpenAI & MERN
 This is a AI Generated Story App where the OpenAI generates a story based on user prompt.
-
-## Video -  login , favourite/upvote story , publish generated story, explore stories , leaderboard  implemented.
-https://github.com/ViditaShetty/Story-App-AI/assets/96463276/3547c8f9-7f88-48f0-8276-66a032b100b8
+Made a story app enhanced with AI. It is mobile responsive including:
+ • AI generated story based on user prompt
+ • Upvoting, Bookmarking  & Tagging Story
+ • LeaderBoard 
+ • Filtering based on Themes and Tones
+ 
+ ### Demo
+ https://github.com/ViditaShetty/Story-App-AI/assets/96463276/3547c8f9-7f88-48f0-8276-66a032b100b8
 
 ## Hero Page
 ![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/5bfa7cfe-b7cf-4beb-a400-e29b74341490)
@@ -28,4 +33,4 @@ https://github.com/ViditaShetty/Story-App-AI/assets/96463276/3547c8f9-7f88-48f0-
 
 ## Indiviual Story
 ![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/433c2fd5-a9e6-40b7-a73a-037ba242a0d5)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/cfac87d8-cf5f-42e6-9b83-f590e84caea3)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/f12b083b-2a4f-446a-a3cc-3c25e3e05ce7)
