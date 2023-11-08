@@ -10,27 +10,25 @@ Made a story app enhanced with AI. It is mobile responsive including:
  https://github.com/ViditaShetty/Story-App-AI/assets/96463276/3547c8f9-7f88-48f0-8276-66a032b100b8
 
 ## Hero Page
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/5bfa7cfe-b7cf-4beb-a400-e29b74341490)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/1328e5ef-33cd-4cfe-a9d1-6d974472ba64)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/a5a9ac1e-a378-499c-a7f6-59001470f12c)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/e2ffd6b6-1629-48e3-ab59-761512ec6968)
+
 
 ## Explore Page
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/a767ee55-5329-45fc-82b7-ee300bb4878c)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/b71330d5-fa6b-4d39-b384-16ea3a6a9729)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/c4411b75-a8d8-4d30-a8ef-9b5495c3bbbd)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/5e3c659b-f113-4845-8093-0a03a8c25241)
+
 
 ## LeaderBoard
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/4ebb6fd8-adac-4fcb-aa39-4cfbcb74b022)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/ebab27bc-296a-4054-b9a5-14d24783cc43)
 
 ## You
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/cc01a39a-75fd-4a05-8491-6111fc7b5f08)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/049eab9a-a015-4b67-b294-78db7b915ed2)
 
 ## Publish
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/25afd741-b5c8-461d-8a70-61763522c0c7)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/9f04e25e-0d65-4b5a-950c-e192ad515192)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/27c720e9-4fbc-4341-a8a6-bc6c867f5513)
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/33a8c103-fb9f-492a-8f3b-f85dc1699790)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/4ca836a3-f78a-47ae-9f16-cc3dd73f26d2)
+
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/2f122cdb-fadd-4525-b17f-55bcf64dbb92)
+
 
 ## Indiviual Story
-![image](https://github.com/ViditaShetty/Story-App-AI/assets/96463276/433c2fd5-a9e6-40b7-a73a-037ba242a0d5)
-![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/f12b083b-2a4f-446a-a3cc-3c25e3e05ce7)
+![image](https://github.com/ViditaShetty/Story-App-OpenAI-ReactJS/assets/96463276/c0bcfca7-221f-4835-8391-8564eb0ac412)
+
